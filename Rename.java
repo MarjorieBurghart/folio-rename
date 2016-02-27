@@ -28,8 +28,8 @@
  * Generally, use at your own risk. And drink responsibly. 
  * 
  * 
-* Project manager: Marjorie Burghart, EHESS - CIHAM UMR 5648 <marjorie.burghart@ehess.fr>
-* February 2015
+* Project manager: Marjorie Burghart, CNRS - CIHAM UMR 5648 <marjorie.burghart@ehess.fr>
+* February 2016
 * 
 * This source code makes use of and modifies the code of the "batchfilerenametool" application 
 * (https://code.google.com/p/batchfilerenametool/) by CharCheng Mun and Cheong Wee Lau (August 2009) 
@@ -638,8 +638,8 @@ public class Rename extends JFrame implements ActionListener{
 + "This application is in beta-test mode, do not use it on important material without making \n"
 + "a copy of your files. \n"
 + "Generally, use at your own risk.\n\n"
-+ "Project manager: Marjorie Burghart, EHESS - CIHAM UMR 5648 <marjorie.burghart@ehess.fr>\n"
-+ "February 2015\n\n"
++ "Project manager: Marjorie Burghart, CNRS - CIHAM UMR 5648 <marjorie.burghart@ehess.fr>\n"
++ "February 2016\n\n"
 + "This source code makes use of and modifies the code of the \"batchfilerenametool\" application \n"
 + "(https://code.google.com/p/batchfilerenametool/)\n"
 + " by CharCheng Mun and Cheong Wee Lau (August 2009)\n\n "
